@@ -1,9 +1,8 @@
 /***********************************************************************************
 Author  : yang.deng
-Email   : yang.deng@geotomo.com
+Email   : dyc5810911@126.com
 Version : v1.0
 Date    : 2016.09.09
-copyright@reverse 2016 GeoTomo.Hefei
 ************************************************************************************/
 #ifndef SEGYOUT_H
 #define SEGYOUT_H
