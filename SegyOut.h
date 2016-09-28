@@ -29,7 +29,6 @@ public:
 	bool open();
 	void close();
 
-	/* override write function */
 	bool write();
 	bool write(const int* const &ptHeaders,
 		const int* const &pfHeader,
